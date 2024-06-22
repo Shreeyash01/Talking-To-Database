@@ -1,0 +1,83 @@
+# Node modules and log files for React app
+client/node_modules/
+client/.env
+client/.next/
+client/.nuxt/
+client/dist/
+client/build/
+client/.cache/
+
+# Build directory for React app
+client/build/
+
+# Environment variables
+client/.env
+server/.env
+
+# Local environment files
+client/.local/
+
+# Temporary files and directories
+client/tmp/
+client/temp/
+
+# Logs and crash reports
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+server/logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python cache and virtual environment
+server/__pycache__/
+server/*.pyc
+server/*.pyo
+server/*.pyd
+server/.python-version
+server/venv/
+server/env/
+server/.venv/
+
+# Model directory
+server/model/
+
+# MySQL data dumps
+server/*.sql
+server/*.dump
+
+# Python specific files
+server/.pytest_cache/
+server/.mypy_cache/
+server/.tox/
+server/.coverage
+server/coverage.xml
+server/.hypothesis/
+server/.pylint.d/
+server/.pyre/
+
+# Jupyter Notebook checkpoints
+server/.ipynb_checkpoints
+
+# VSCode settings and extensions
+.vscode/
+
+# IDE specific files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Flask specific files
+instance/
+server/*.log
+server/*.pot
+server/*.pyc
+server/*.pyo
+server/.pyo
