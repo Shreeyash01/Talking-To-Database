@@ -87,7 +87,7 @@
 ## 📊 Fine-Tuned Model and Dataset
 
 - **[Dataset](https://huggingface.co/datasets/shreeyashm/SQL-Queries-Dataset) :** The custom dataset used to fine-tune the TinyLlama model can be found here.
-- **[Pre Trained Model](https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF) :** The fine-tuned TinyLlama model can be accessed here.
+- **[Pre Trained Model](https://huggingface.co/TheBloke/TinyLlama-1.1B-Chat-v1.0-GGUF) :** The pre-trained TinyLlama model can be accessed here.
 
 ## 🧠 Model Fine-Tuning Process
 
