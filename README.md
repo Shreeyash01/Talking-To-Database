@@ -1,7 +1,9 @@
 
 # 🗃️ Talking To Database!
 
-![Talking-To-Database Banner](https://via.placeholder.com/800x200.png?text=Talking-To-Database)
+<p align="center">
+  <img src="https://github.com/Shreeyash01/temp/assets/103109932/403b0f4c-a3b2-464e-be72-7a4064e79f78" alt="Talking-To-Database Banner">
+</p>
 
 **Talking-To-Database** is a full-stack web application that allows users to interact with a MySQL database using natural language inputs. The application uses a fine-tuned TinyLlama model to convert natural language queries into SQL statements, making database interactions more intuitive and user-friendly.
 
@@ -91,8 +93,6 @@
 
 ## 🧠 Model Fine-Tuning Process
 
-![Model Fine-Tuning](https://via.placeholder.com/800x400.png?text=Model+Fine-Tuning+Process)
-
 The TinyLlama model was fine-tuned on a custom SQL dataset using the following steps:
 
 1. **Dataset Preparation:** Created a dataset with columns for natural language questions, SQL context, and SQL queries.
@@ -102,7 +102,9 @@ The TinyLlama model was fine-tuned on a custom SQL dataset using the following s
 
 ## 💻 Usage
 
-![Usage Gif](https://via.placeholder.com/800x400.gif?text=Usage+Demo)
+Screenshots -
+![Usage Gif](https://github.com/Shreeyash01/temp/assets/103109932/357b9508-360c-4f1f-a95c-68da94df01f1)
+![Usage Gif](https://github.com/Shreeyash01/temp/assets/103109932/ae8c20ed-ae96-4f32-984a-b6a0bec8e1b4)
 
 1. Input your query in natural language via text or voice.
 2. Review and confirm the generated SQL query.
