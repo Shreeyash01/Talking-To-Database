@@ -2,7 +2,7 @@
 # 🗃️ Talking To Database!
 
 <p align="center">
-  <img src="https://github.com/Shreeyash01/temp/assets/103109932/403b0f4c-a3b2-464e-be72-7a4064e79f78" alt="Talking-To-Database Banner">
+  <img src="https://github.com/Shreeyash01/temp/assets/103109932/24352331-6563-4d97-8c7d-95648a9352f8" alt="Talking-To-Database Banner">
 </p>
 
 **Talking-To-Database** is a full-stack web application that allows users to interact with a MySQL database using natural language inputs. The application uses a fine-tuned TinyLlama model to convert natural language queries into SQL statements, making database interactions more intuitive and user-friendly.
