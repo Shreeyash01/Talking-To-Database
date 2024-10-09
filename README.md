@@ -72,7 +72,7 @@
    python -m venv venv
    source venv/bin/activate   # On Windows use `venv\Scripts\activate`
    ```
-3. Download the **[Fine-Tuned Model](https://drive.google.com/drive/u/1/folders/1CHI1xFjE35ePHWB_0dp_Ak1rrS9D1kvo)** and update the model path in  `main.py`.
+3. Download the **[Fine-Tuned Model](https://drive.google.com/drive/u/0/folders/1NMH7zpJSFqToxR9wq5_nyNr-jdzhiEOM)** and update the model path in  `main.py`.
 
 4. Configure the MySQL database in `main.py`.
 
